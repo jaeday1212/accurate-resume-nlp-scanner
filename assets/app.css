@@ -1,0 +1,5 @@
+body { background: #f6f7fb; }
+.card { border: 0; border-radius: 14px; box-shadow: 0 6px 18px rgba(0,0,0,0.06); }
+textarea { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+.h-title { font-weight: 700; }
+.muted { color: #6c757d; }

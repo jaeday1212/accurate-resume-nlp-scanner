@@ -1,0 +1,275 @@
+{
+  "schema_version": 1,
+  "roles": {
+    "data_scientist": {
+      "display_name": "Data Scientist",
+      "must_have": [
+        "Python",
+        "pandas",
+        "scikit-learn",
+        "statistics",
+        "machine learning",
+        "SQL",
+        "data visualization",
+        "feature engineering",
+        "experimentation",
+        "model evaluation",
+        "data cleaning",
+        "communication"
+      ],
+      "nice_to_have": [
+        "deep learning",
+        "A/B testing",
+        "NLP",
+        "time series",
+        "cloud",
+        "Spark",
+        "dashboarding"
+      ],
+      "aliases": {
+        "scikit-learn": [
+          "sklearn"
+        ],
+        "machine learning": [
+          "ml",
+          "modeling"
+        ],
+        "data visualization": [
+          "matplotlib",
+          "seaborn",
+          "plotly"
+        ],
+        "statistics": [
+          "statistical analysis"
+        ],
+        "python": [
+          "python programming"
+        ],
+        "sql": [
+          "structured query language"
+        ],
+        "ab testing": [
+          "a/b testing",
+          "experimentation"
+        ],
+        "nlp": [
+          "natural language processing"
+        ],
+        "dashboarding": [
+          "tableau",
+          "power bi"
+        ]
+      },
+      "sample_jds": [
+        {
+          "jd_id": "da_001",
+          "title": "Data Scientist",
+          "text": "Company Description\n\nVisa is a world leader in payments and technology, with over 259 billion payments transactions flowing safely between consumers, merchants, financial institutions, and government entities in more than 200 countries and territories each year. Our mission is to connect the world through the most innovative, convenient, reliable, and secure payments network, enabling individuals, businesses, and economies to thrive while driven by a common purpose \u2013 to uplift everyone, everywhere by being the best way to pay and be paid.\nMake an impact with a purpose-driven industry leader. Join us today and experience Life at Visa.\n\nJob Description\n\nAre you skilled at turning hard numbers into compelling stories and useful strategic insights? Do you solve complex data challenges with creative flair? Put those skills to work answering strategic questions for one of the world's most respected and innovative payments companies.\nIn this role, you will be responsible for a range of duties from basic data analytics, to implementing and delivering advanced machine learning models, visualization solutions and high impact business projects. You will get chance to leverage your business acumen, programming skills, technical knowledge of big data and machine learning techniques. This function is critical in building market-relevant fraud solutions for our clients and intellectual property for Visa.\nThe position will be based in Atlanta, GA or Washington DC\nEssential Functions\nBuild and validate predictive models with advanced machine learning techniques and tools to drive business value, interpret and present modeling and analytical results to non-technical audience\nWrite predictive model software packages for production deployment, support model installations, monitor and calibrate production models\nConduct statistical analyses on various internal and external data sources with big data tools like Hadoop and Spark to identify interesting and valuable insights and trends, pr",
+          "source": "data_science_job.csv",
+          "row_index": 0
+        },
+        {
+          "jd_id": "da_002",
+          "title": "Data Scientist",
+          "text": "At Johnson & Johnson , we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal. Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity.\nJohnson & Johnson Innovative Medicine develops treatments that improve the health of people worldwide. Research and development areas encompass oncology, cardiovascular and metabolic disorders, immunology, pulmonary hypertension, neuroscience, and infectious disease. Our goal is to help people live longer, healthier lives. We have produced and marketed many first-in-class prescription medications and are poised to serve the broad needs of the healthcare market \u2013 from patients to practitioners and clinics to hospitals. To learn more about Johnson & Johnson Innovative Medicine, visit https://www.jnj.com/us/ .\nThe Commercial Data Sciences team within Johnson & Johnson Innovative Medicine Business Technology organization is looking for an extraordinary Data Scientist who is passionate about crafting, developing, and fielding data science solutions that drive impact for patients and for Janssen. There are many ways to explore and analyze data, and this powers the excitement and passion of data scientists at Janssen as many business units are eager to use the data to build business value.\nIn this role you will be someone who stays on the cutting edge of artificial intelligence, data science and advanced analytics research through novel project execution and development of algorithms that influence decisions at various levels in the organization, including but not limited to omnichannel sales and marketing optimization, patient/payer analytics, and related commercially-focused model devel",
+          "source": "data_science_job.csv",
+          "row_index": 1
+        },
+        {
+          "jd_id": "da_003",
+          "title": "Data Scientist",
+          "text": "Description:\nThe Data Scientist role combines advanced statistical analysis, predictive modeling, and data visualization skills to drive data-driven insights that grow and optimize fundraising strategies for Operation Smile. The Data Scientist leverages donor behavior data to segment donors effectively, forecast fundraising outcomes, and enhance donor engagement and retention efforts. Through clear communication and strategic collaboration, the Data Scientist translates complex data insights into actionable recommendations, supporting informed decision-making and maximizing philanthropic impact.\nWork Arrangement Notes:\nThose living in the Hampton Roads area follow a hybrid work schedule and report to the office three days per week. Those outside of this area follow a remote work arrangement.\nEssential Functions:\nPredictive Modeling:\nDevelop custom scripts and functions in R or Python to automate repetitive data analysis tasks, streamline workflow processes, and enhance the efficiency of fundraising operations.\nUse statistical techniques to score constituents based on data from the organization\u2019s internal database. Combine wealth capacity data with generated affinity from predictive models to:\nIdentify new compelling major gift prospects.\nEvaluate the currently managed prospects to find new, untapped opportunities.\nUtilize data visualization tools (e.g., Tableau, Power BI) to create compelling visual narratives that communicate fundraising trends, performance metrics, and strategic insights to internal stakeholders and external partners.\nRFM Analysis:\nScore donors to summarize best givers based on a donor\u2019s recency, frequency, and magnitude of giving.\nIdentify high-value donor segments and provide insights to tailor fundraising strategies to maximize donor lifetime value and retention.\nYear-over-Year Trend Analysis and Benchmarking:\nCompare fundraising performance over multiple time periods, sources, and gift funds to identify trends and anomalies that inform future ",
+          "source": "data_science_job.csv",
+          "row_index": 2
+        },
+        {
+          "jd_id": "da_004",
+          "title": "Growth Data Scientist",
+          "text": "nan",
+          "source": "data_science_job.csv",
+          "row_index": 3
+        },
+        {
+          "jd_id": "da_005",
+          "title": "Computer Vision Data Scientist",
+          "text": "Summary\n\nPosted: Mar 2, 2024\n\nRole Number:200540430\n\nDo you have a passion for computer vision and deep learning problems? The Video Engineering Data Analytic and Quality (DAQ) group is looking for a data scientist with a strong emphasis on deep system understanding through data analysis. In this role, you will collaborate with multiple teams (machine learning, quality assurance, cloud infrastructure support, user studies). We work on multiple, related projects requiring a bit of creativity and ingenuity. You will partner with video computer vision teams to improve algorithm quality and guide feature development with data, to deliver amazing computer vision experiences.\n\nKey Qualifications\n3+ years relevant industry experience\nSolid background in data science, machine learning, Computer vision and statistical data analysis\nDemonstrated experience in in-depth analysis of machine learning model failures\nExperience crafting, conducting, analyzing, and interpreting experiments and investigations\nAdvanced programming skills in data manipulation & processing (SQL & Python preferred)\nProven expertise in data wrangling and developing data visualizations & reporting with toolings such as Tableau, Superset, AWS etc.\nSelf-motivated and curious with creative and critical thinking capabilities to improve data quality evaluation methods for diverse and complex data annotation programs\nOutstanding verbal and written communication skills, along with strong collaborative abilities\nExperience presenting data to stakeholders\n\n\nDescription\n\nVideo Engineering DAQ team is seeking a self-motivated data scientist to research and develop evaluation methods to drive the continuous improvement for Apple\u2019s wide variety of computer vision projects. You will deeply understand algorithm module and design intermediate metrics to evaluate algorithm from telemetry (on-device logging data). You will identify core metrics to track usage and performance for computer vision algorithms on large scale dat",
+          "source": "data_science_job.csv",
+          "row_index": 5
+        },
+        {
+          "jd_id": "da_006",
+          "title": "Data Scientist",
+          "text": "Overview:\nLMI seeks a Data Scientist to help FEMA effectively evaluate, decide, govern, and execute strategic goals. Join our team of collaborative self-starters focused on delivering practical and efficient solutions to support our client in helping people before, during, and after disasters.\n\nLMI: Innovation at the Pace of Need\u2122\n\nAt LMI, we\u2019re reimagining the path from insight to outcome at the new speed of possible. Combining a legacy of over 60 years of federal expertise with our innovation ecosystem, we minimize time to value and accelerate mission success. We energize the brightest minds with emerging technologies to inspire creative solutioning and push the boundaries of capability. LMI advances the pace of progress, enabling our customers to thrive while adapting to evolving mission needs.\nResponsibilities:\nProvide data analytics to ensure strategic, data-driven decision-making.\nEnhance the customer\u2019s business intelligence through state-of-the-art reporting and analytics capabilities.\nDeliver sophisticated services that provide clarity and actionable insights across organization mission areas, supporting a common operating picture.\nTasks in this area include, but are not limited to:\n\nDesign, Data Visualization, and Reporting: Provide contemporary analysis, information/key word tagging, and visualization tools capable of developing, managing, and maintaining dashboards (e.g., Tableau and Power BI). Apply industry-leading best practices in human-centered design (UI/UX), data management, reporting, and dashboard creation to streamline processes and maximize efficiency in service delivery.\n\nPerformance Measurement: Facilitate the development of performance measures and key performance indicators, along with the formulation of detailed plans to evaluate and enhance performance against strategic objectives. Partner with federal staff to identify and act upon high-value, data-informed strategic opportunities that aim to elevate operational success.\n\nAnalytics and A",
+          "source": "data_science_job.csv",
+          "row_index": 6
+        },
+        {
+          "jd_id": "da_007",
+          "title": "Data Scientist",
+          "text": "In this Role, Your Responsibilities Will Be:\nImplement solutions to solve complex business and engineering problems using machine learning, econometrics and operations research techniques\nCreate customer-focused analytics with data scientist peers\nDiscover opportunities to improve systems, processes and enterprises through data analytics and automation\nGenerate reports for decision-making using data visualization tools\nEstablish and maintain collaboration with other internal teams to apply cloud and edge-computing capabilities for production and proprietary algorithms\nDevelop in-depth business and domain understanding\nTranslate analytics techniques published in peer-review journals and conference proceedings into practical solutions for challenges at hand\nWho You Are:\n\nYou enjoy connecting data to business operations and product engineering. Your passion is to utilize data that enables you to draw conclusions and enables value added decisions. You're motivated by ensuing others have the tools to make far reaching and impactful decisions.\n\nFor This Role, You Will Need:\nBachelor's or Master's degree in Econometrics, Operations Research, Engineering or Quantitative field\nMust have strong interest in applying, deploying and scaling data driven solutions across business domains (e.g. Finance, Sales and Marketing), Supply Chain and customer-facing projects\nMust have experience in data wrangling and modeling in Python or similar language and collaborate using Git\nMust be proficient in verifying raw data integrity through automation, test-driven development (TDD) and classic extract-transform-load (ETL) techniques\nProficient in robust statistics, hypothesis testing, experimental design\nMust have knowledge in forecasting and time series analysis (e.g. ARIMAX, NARX, LSTM, Transformer)\nExperience with modelling techniques for complex systems and machine learning\nExcellent verbal and written communication skills\nAbility to work on virtual teams with members around the globe\nAbi",
+          "source": "data_science_job.csv",
+          "row_index": 7
+        },
+        {
+          "jd_id": "da_008",
+          "title": "Data Scientist, Enterprise",
+          "text": "Grammarly is excited to offer a remote-first hybrid working model. Team members work primarily remotely in the United States, Canada, Ukraine, Germany, or Poland. Certain roles have specific location requirements to facilitate collaboration at a particular Grammarly hub.\nAll roles have an in-person component: Conditions permitting, teams meet 2\u20134 weeks every quarter at one of Grammarly\u2019s hubs in San Francisco, Kyiv, New York, Vancouver, and Berlin, or in a workspace in Krak\u00f3w. This flexible approach gives team members the best of both worlds: plenty of focus time along with in-person collaboration that fosters trust and unlocks creativity.\nGrammarly team members in this role must be based in the United States or Canada. They must be able to collaborate in person 3 weeks per quarter and travel if necessary to the hub(s) where the team is based.\nThe opportunity\nGrammarly is the world\u2019s leading AI writing assistance company, trusted by over 30 million people and 70,000 professional teams every day. From instantly creating a first draft to perfecting every message, Grammarly\u2019s product offerings help people at 96% of the Fortune 500 get their point across\u2014and get results. Grammarly has been profitable for over a decade because we\u2019ve stayed true to our values and built an enterprise-grade product that\u2019s secure, reliable, and helps people do their best work\u2014without selling their data. We\u2019re proud to be one of Inc.\u2019s best workplaces, a Glassdoor Best Place to Work, one of TIME\u2019s 100 Most Influential Companies, and one of Fast Company\u2019s Most Innovative Companies in AI.\nWe\u2019re looking for a Data Scientist to join our growing Data team and community to achieve our ambitious goals. This role is part of the newly developed Enterprise Data Science team at Grammarly, which supports our Enterprise business, including our entire Sales funnel. This person will be a strategic thought leader in marketing, demand generation, revenue operations, sales development, product engineering, and",
+          "source": "data_science_job.csv",
+          "row_index": 8
+        },
+        {
+          "jd_id": "da_009",
+          "title": "Senior Data Scientist \u2013 Digital Analytics",
+          "text": "Description\nSummary:\nOur Enterprise Data and Analytics team is growing, and we're looking for an outstanding Senior Data Scientist to join our team. At Huntington, you will leverage machine learning, segmentation, and statistical inference on huge data sets to improve how we understand our customers and the communities we serve. Our goal is to be the Best performing Regional Bank in America, and we need data and analytics to meet that goal. As we advance our data science and analytics capabilities, we want experts in modeling complex business problems and discovering business insights using statistical, algorithmic, mining, and visualization techniques. The Senior Data Scientist contributes to building and developing the organization\u2019s data infrastructure and supports the senior leadership with insights, management reports, and analysis for decision-making processes.\nDuties and Responsibilities:\nPerforms advanced analytics methods to extract value from business data.\nPerforms large-scale experimentation and build data-driven models to answer business questions.\nConducts research on cutting-edge techniques and tools in machine learning/deep learning/artificial intelligence.\nDetermines requirements that will be used to train and evolve deep learning models and algorithms.\nArticulates a vision and roadmap for the exploitation of data as a valued corporate asset.\nInfluences product teams through presentation of data-based recommendations.\nEvangelizes best practices to analytics and products teams.\nOwns the entire model development process, from identifying the business requirements, data sourcing, model fitting, presenting results, and production scoring.\nPerforms other duties as assigned.\nBasic Qualifications:\nMaster\u2019s Degree in computer science, statistics, economics or related fields\n3+ years of work and/or educational experience in machine learning or cloud computing, experience using statistics and machine learning to solve complex business problems, experience con",
+          "source": "data_science_job.csv",
+          "row_index": 9
+        },
+        {
+          "jd_id": "da_010",
+          "title": "Data Scientist - Manufacturing Systems",
+          "text": "Advance the automotive market and advance your career at Gentex! Join a collaborative culture devoted to innovation, cooperation, and continuous improvement. Your ideas are not just heard, they are celebrated! Explore Gentex today!\nPOSITION OVERVIEW\nThe Data Scientist II will use statistical methods and machine learning to create predictive models, analytics, and data features which will be used to mine value from operations data; participate in cross-functional high-level projects, as well as provide guidance to engineering staff.\nWHAT YOU\u2019LL DO\nWork with business leaders and subject matter experts to evaluate project benefit and feasibility.\nAssist with organizational data collection, cleaning, and maintenance.\nMine data to identify trends, patterns, anomalies, and gaps in data quality and availability.\nDerive an understanding of data significance through ad-hoc analytics.\nCreate new data features based on existing data to improve modeling.\nDevelop machine learning models to facilitate operational cost improvement efforts.\nAssist with deployment of algorithms using developed machine learning models.\nCreate understandable synopses of developed models and algorithms.\nPresent findings, improvements, and cost savings to business leaders.\nTeach and guide engineering staff in localized machine learning projects.\nOther duties as assigned.\nHOW YOU\u2019LL DO IT\nDiagnostic information gathering - Identifying the information needed to clarify a situation, seek that information from appropriate sources, and use skillful questioning to draw out the information.\nAnalytical thinking - Tackling a problem by using a logical, systematic, and sequential approach.\nManaging complexity - Making sense of complex, high quantity, and sometimes contradictory information to effectively solve problems.\nNimble learning - Actively learning through experimentation when tackling new problems, using both successes and failures as learning experiences.\nProject management - Applying knowledge, skills, ",
+          "source": "data_science_job.csv",
+          "row_index": 10
+        },
+        {
+          "jd_id": "da_011",
+          "title": "Data Scientist III",
+          "text": "At F5, we strive to bring a better digital world to life. Our teams empower organizations across the globe to create, secure, and run applications that enhance how we experience our evolving digital world. We are passionate about cybersecurity, from protecting consumers from fraud to enabling companies to focus on innovation.\n\nEverything we do centers around people. That means we obsess over how to make the lives of our customers, and their customers, better. And it means we prioritize a diverse F5 community where each individual can thrive.\nAbout F5:\nLife at F5 is never dull. We are constantly identifying industry trends and disruptions and innovating to get ahead of future customer needs. We are passionate about securing our application services for our customers, which include the Global and Fortune 100, federal and local government services, and many others worldwide.\n\nBut our success isn\u2019t driven solely by what we do. We also care deeply about how we do it. At F5, our culture is how we live, every single day. And it\u2019s producing extraordinary results \u2013 not only for our customers, but also for our employees. We understand that your life is about more than just work, so we\u2019re committed to a culture that supports your whole life. For this role, we are offering a choice of fully remote or hybrid work arrangement with F5\u2019s exceptional benefits.\nPosition Summary:\nF5\u2019s Security Intelligence Center is seeking an experienced, curious, and highly professional individual who is looking to take on new challenges as a senior data analyst in our Threat Analytics & Reporting team.\nThis role has an engaging mix of data analytics and customer/business engagement. It involves big data analysis and presentations to international executive audiences, hosting webinars, co-authoring industry papers, working on development of internal tools, and assisting the Sales team by presenting data-based threat insights to prospective and long-time customers.\nOur team is always interested in ex",
+          "source": "data_science_job.csv",
+          "row_index": 14
+        },
+        {
+          "jd_id": "da_012",
+          "title": "Data Science Co-Op (NLP)",
+          "text": "Job Description\nABOUT BOSE\nYou know the moment. It\u2019s the first notes of that song you love, the intro to your favorite movie, or simply the sound of someone you love saying \u201chello.\u201d It\u2019s in these moments that sound matters most.\nAt Bose, we believe sound is the most powerful force on earth. And we\u2019ve dedicated ourselves to improving it for nearly 60 years. Ever since our founder, Dr. Amar Bose, bought a stereo system and thought, \u201cI can make this better,\u201d we\u2019ve been relentlessly pushing forward to the next best thing.\nInnovation is more than what we do. It\u2019s who we are \u2014 constantly learning and constantly curious. We never stop imagining what better sound sounds like. We\u2019re music fanatics and audio engineers. We\u2019re explorers and inventors and dreamers. And we\u2019re passionate down to our bones about making whatever you\u2019re listening to a little more magical.\nTHE PROGRAM\nWe're looking for students to join our Co-Op Program who are obsessively curious about 'what's next'. You'll get hands on experience with our products and learn from the best of the best in the business. You will immerse yourself into Bose for 6 months and get the opportunity to grow the skills your learned in the classroom with hands on work experience. By the time you end your time with us, you will have been given the opportunity to truly make a real impact in the future of Bose and your career!\nOpportunities don't stop at your day-to-day work. While you're getting an in depth look at your area of expertise, we'll expose you to other areas of the company. Our Co-Ops are given the opportunity to connect with senior leadership across the business to understand different perspectives at Bose. You'll network with other Co-Ops and colleagues to grow your network for the future!\nTimeframe: July-December 2024\nTHE ROLE\nBose is about better sound, but better sound is just the beginning. We are about inventing new technologies that truly benefit people and creating a culture where innovation and teamwork are hi",
+          "source": "data_science_job.csv",
+          "row_index": 16
+        },
+        {
+          "jd_id": "da_013",
+          "title": "Lead Data Scientist, People Analytics",
+          "text": "Overview:\nAs a Lead Data Scientist, you will be responsible for leading significant role-specific project work as a part of a larger cross-functional team in support of one or more lines of business. Lead Data Scientists typically leverage and implement pre-defined analytics patterns and infrastructure on projects that are moderately complex, requiring working knowledge of a more limited set of machine learning or advanced modeling approaches. They must be able to quickly learn new subject-matter in support of a specific project or task. Our Lead Data Scientists typically work with latitude for action or decisions on specific projects, solutions, or technical issues.\n\nThe Lead Data Scientist, People Analytics will support multiple audiences across the People and Planning Department, including DE&I, Organizational Strategy and Planning, and Talent Experience, by applying a broad suite of advanced analytics techniques to identify drivers of key talent outcomes and to predict likely future outcomes in order to shape recommendations. This role will be required to maintain confidentiality of sensitive, personal data related to Staff, contingent workers, and occasionally Operators and Team Members.\n\nOur Flexible Future model offers a healthy mix of working in person and virtually, strengthening key elements of the Chick-fil-A culture by fostering collaboration and community.\nResponsibilities:\nThe person who fills this role will be expected to do the following as a part of their regular work responsibilities:\nApply statistical models and analysis to identify key drivers and causal relationships that predict talent and candidate outcomes\nPartner with Staff Listening Program Lead and teams across the People & Planning department to develop models to measure talent experience\nEmploy theme extraction/identification and driver modeling in support of Staff survey analytics and other listening initiatives\nPartner with Talent Planning to implement a scientific approach to headcoun",
+          "source": "data_science_job.csv",
+          "row_index": 17
+        },
+        {
+          "jd_id": "da_014",
+          "title": "Data Scientist",
+          "text": "Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses and products in diagnostics, medical devices, nutritionals and branded generic medicines. Our 114,000 colleagues serve people in more than 160 countries.\nAbout Abbott\nAt Abbott, we believe people with diabetes should have the freedom to enjoy active lives. That\u2019s why we\u2019re focused on helping people with diabetes manage their health more effectively and comfortably, with life-changing products that provide accurate data to drive better-informed decisions. We\u2019re revolutionizing the way people monitor their glucose levels with our new sensing technology.\n\nWhat You\u2019ll Do:\nAs a Data Scientist, you will lead the analysis and interpretation of numerous data sources (interventional clinical trial datasets, observational human studies and real world evidence) from people with diabetes (PWDs). Results will inform feature sets for products to help PWDs better manage their diabetes. The ideal candidate will be one who can effectively analyze source data sets and translate those findings into actionable insights that can be understood by cross functional stakeholders. More specifically, they will be expected to do the following: develop standardized analysis methods and dashboards for certain common datasets as well as bespoke methods for unique datasets, define and test hypotheses for each dataset, generate summary documents of results with recommendations, and lead translation of these recommendations into real-life embodiments for testing. The nature of this work is highly interdisciplinary, so the ideal candidate should value working with people from different professional backgrounds and be able to cultivate working cross-functional relationships.\nA strong working knowledge of the diabetes disease state (etiology, pathogenesis, progression and treatment) is highly preferred. Such a",
+          "source": "data_science_job.csv",
+          "row_index": 20
+        },
+        {
+          "jd_id": "da_015",
+          "title": "Data Scientist",
+          "text": "Job ID:\nMD-3015\n\nJob Title:\nData Scientist\n\nLocation:\nSuitland, MD\n\nClearance:\nTS/SCI\n\nTravel:\nMinimal\n\nDescription:\nActive TS/SCI required\nTapHere is looking for a self-starting, team-oriented Data Scientist to join our dynamic development team in supporting a Government customer. The successful candidate will perform the following requirements and tasks:\nSupport ONI project initiatives by applying and utilizing new or established qualitative and quantitative methods to analyze and resolve analytical issues.\nResearch opportunities for data acquisition and new uses for existing data as well as collaborate with respective government points of contact (POC) to perform exploratory and targeted data analyses; test working hypotheses; prepare, mine, and analyze structured, semi-structured, and unstructured data; and identify trends and patterns.\nDesign and develop new, scalable tools, dashboards, and visualizations to enable users to consume and understand data more effectively and efficiently.\nIdentify data needs and proper methods for data gathering, extraction, integration, preparation, quality, and governance from internal and external sources in context of meeting customer expectations.\nEmploy a variety of programming languages, analytic techniques, and tools to develop statistical algorithms and models, automate data conditioning and data analysis, support machine learning, and generate visualizations for use in predictive and prescriptive modeling and proof of concept initiatives.\nCreate positive customer relationships in order to gather input and feedback for addressing analytical issues and advanced reporting needs.\nDeliver and communicate status and results through reports, presentations, and other means as designated by government POCs and in accordance with the deliverables listed in Section 3.2.\nCollaborate with other analytic professionals to continuously build a broader and deeper data science and analytics capability relevant to N3 initiatives, ONI and su",
+          "source": "data_science_job.csv",
+          "row_index": 21
+        },
+        {
+          "jd_id": "da_016",
+          "title": "Jr. R&D Data Scientist",
+          "text": "At Eos, we believe in great chemistry. The combination of core elements into an amazing product and the mixture of skills into a unified team. We seek the best talent to just us in our mission to bring affordable, sustainable, clean energy to all. Come change the world with us.\nSummary\nThis is an entry-level position for a data scientist embedded within Eos's research and development group. An optimal candidate has either a data science background with a strong focus on research applications and methods or a background in a physical science or engineering discipline with a focus on applied data science. Recent graduates with strong research skills are welcome.\nResponsibilities\nSupport tools for handling, processing, and analyzing Eos\u2019s R&D data pipeline and associated data infrastructure \u2013 including front-end dashboards for scientists and operators.\nCarry out analyses as needed to support other team members within R&D, as well as other teams (primarily the systems engineering team).\nDevelop algorithms to better characterize and parametrize battery state behavior (state of health, state of charge), including development of tests plans to generate requisite data as needed.\nSupport development of tools for any data infrastructure needs that arise for either lab data for field telemetry.\nSupport the other R&D data scientists with tasks relating to the research data management as needed.\nKnowledge, Skills, and Abilities\nStrong general-purpose scripting skills\nBackground in mathematics and statistics.\nBackground in experimental methods and test design.\nPython strongly preferred (numerical/data packages such as Numpy, Pandas, Scipy, etc\u2026 beneficial).\nSome knowledge of SQL databases.\nStrong technical writing and reporting skills.\nBasic familiarity with Linux.\nAbility to work independently and well within a team.\nExperience with timeseries telemetry data or similar preferred.\nExperience with analyzing research data and physical measurements preferred.\nExperience modelling ph",
+          "source": "data_science_job.csv",
+          "row_index": 22
+        },
+        {
+          "jd_id": "da_017",
+          "title": "Sr. Associate Data Scientist",
+          "text": "Who Are We?\nTaking care of our customers, our communities and each other. That\u2019s the Travelers Promise. By honoring this commitment, we have maintained our reputation as one of the best property casualty insurers in the industry for over 160 years. Join us to discover a culture that is rooted in innovation and thrives on collaboration. Imagine loving what you do and where you do it.\nJob Category\nData Science\nCompensation Overview\nThe annual base salary range provided for this position is a nationwide market range and represents a broad range of salaries for this role across the country. The actual salary for this position will be determined by a number of factors, including the scope, complexity and location of the role; the skills, education, training, credentials and experience of the candidate; and other conditions of employment. As part of our comprehensive compensation and benefits program, employees are also eligible for performance-based cash incentive awards.\nSalary Range\n$107,600.00 - $177,500.00\nTarget Openings\n1\nWhat Is the Opportunity?\nTravelers Organizational Statement\nSolid reputation, passionate people, and endless opportunities. That's Travelers. Our superior financial strength and consistent record of strong operating returns mean security for our customers - and opportunities for our employees. You will find Travelers to be full of energy and a workplace in which you truly can make a difference.\n\nSummary\nThe Travelers Catastrophe Risk Management Group is seeking a Sr. Associate Data Scientist to join our PERILS team. You will be joining a group of dedicated professionals charged with leading Travelers to be in a position to endure catastrophic loss from natural and man-made perils.\n\nThe PERILS team is a multi-discipline group focusing on peril research, the development of next generation analytics, and event response activities. As a member of this Team, you will be an active participant in the development and implementation of peril research and s",
+          "source": "data_science_job.csv",
+          "row_index": 23
+        },
+        {
+          "jd_id": "da_018",
+          "title": "Data Scientist",
+          "text": "Overview:\nAt BlueHalo our Cyber experts operate at the mission\u2019s edge. Using advanced cyber techniques, our team of technologist and analysts employ capabilities spanning traditional computing environments to Internet of Things (IoT), including offensive and defensive cyber operations and analysis, signals intelligence (SIGINT) discovery, and data science.\n\nOur team is expanding to do the big things that have never been done before \u2013 the things the nation and the world are counting on us to deliver. Join the transformation and help us make this impact now.\n\nAs a Data Scientist with our Intel Division, you will develop machine learning, data mining, statistical and graph-based algorithms to analyze and make sense of datasets; prototype or consider several algorithms and decide upon final model based on suitable performance metrics; build models or develop experiments to generate data when training or example datasets are unavailable; generate reports and visualizations that summarize datasets and provide data-driven insights to customers; partner with subject matter experts to translate manual data analysis into automated analytics; implement prototype algorithms within production frameworks for integration into analyst workflows.\n\nIf that sounds like you and you\u2019re ready to make an impact now, not later, read on for the details and apply to make the most of your career.\nYou\u2019d like to do this:\nProduce data visualizations that provide insight into dataset structure and meaning\nWork with subject matters experts (SMEs) to identify important information in raw data and develop scripts that extract this information from a variety of data formats (e.g., SQL tables, structured metadata, network logs)\nIncorporate SME input into feature vectors suitable for analytic development and testing\nTranslate customer qualitative analysis process and goals into quantitative formulations that are coded into software prototypes\nDevelop and implement statistical, machine learning, and heu",
+          "source": "data_science_job.csv",
+          "row_index": 26
+        }
+      ]
+    },
+    "data_engineer": {
+      "display_name": "Data Engineer",
+      "must_have": [
+        "Python",
+        "SQL",
+        "ETL",
+        "data pipelines",
+        "data modeling",
+        "cloud",
+        "data quality",
+        "orchestration",
+        "data warehousing",
+        "monitoring",
+        "automation",
+        "reliability"
+      ],
+      "nice_to_have": [
+        "Spark",
+        "Kafka",
+        "Docker",
+        "CI/CD",
+        "streaming",
+        "Airflow",
+        "dbt"
+      ],
+      "aliases": {
+        "etl": [
+          "data pipeline",
+          "pipelines"
+        ],
+        "data pipelines": [
+          "etl",
+          "data pipeline"
+        ],
+        "cloud": [
+          "aws",
+          "s3",
+          "ec2",
+          "lambda"
+        ],
+        "orchestration": [
+          "airflow",
+          "scheduler"
+        ],
+        "data quality": [
+          "validation",
+          "dq"
+        ],
+        "sql": [
+          "structured query language"
+        ],
+        "k8s": [
+          "kubernetes"
+        ],
+        "ml": [
+          "machine learning"
+        ]
+      },
+      "sample_jds": [
+        {
+          "jd_id": "da_001",
+          "title": "Data Scientist",
+          "text": "Every day we tackle new and exciting challenges to empower developers to build modern cloud, mobile, and edge applications that deliver a premium user experience. Couchbase delivers unmatched performance, scalability, flexibility and financial value across cloud, on premises, hybrid, mobile and edge deployments. The database market is undergoing a generational shift and is one of the largest market opportunities in enterprise software due to big trends like the need for digital transformation, acceleration to the cloud and innovation at the edge. Join Couchbase to be a part of a greater change. Here you\u2019ll have the opportunity to learn and grow with some of the most innovative, passionate and humble individuals in the database industry.\nThe Data Science Engineer at Couchbase will play a crucial role in transforming data into actionable insights and wisdom that drive decision-making and innovation. This role involves close collaboration with Product Management and Site Reliability Engineering (SRE) teams to ideate, verify hypotheses, optimize resources, identify root cause analyses (RCAs), uncover opportunities within the Couchbase ecosystems, and work with engineering to ideate on the features. The ideal candidate is a continuous learner, committed to using data to find solutions and efficiencies in complex systems.\nThis position is based in our Santa Clara, CA headquarters with expectations for the candidate to come into the office 2-3 days/week.\nResponsibilities\nCollaborative Ideation: Work closely with engineering and product to brainstorm, design, and validate new features and improvements based on data-driven insights.\nResource Optimization: Partner with SREs to optimize resource usage, improve system performance, and ensure scalability and reliability of our cloud database solutions.\nRoot Cause Analysis: Utilize data analysis to identify root causes of issues within our systems and propose actionable solutions.\nOpportunity Identification: Develop systems and a",
+          "source": "data_science_job.csv",
+          "row_index": 15
+        },
+        {
+          "jd_id": "da_002",
+          "title": "Data Scientist",
+          "text": "Job Description\nWe are pursuing individual(s) for the position of a Subject Matter Expert - Data Scientist. If this position sounds like a good fit and you have a track record of delivering solid results, please apply.\n\nPosition Overview\nThe individual(s) selected for this position will play a vital role in leading complex data science projects from conception to deployment. This role is on-site M-F (any telework must be approved in advance)\nKey Responsibilities may include:\nLeading complex data science projects from conception to deployment.\nProviding expert guidance and mentorship to data science teams.\nStaying abreast of the latest developments in the field and incorporating cutting-edge techniques into projects.\nCollaborating with cross-functional teams to understand business needs and deliver data-driven solutions.\nContributing to the strategic planning of the organization's data initiatives.\nRequired Skills\nAdvanced Programming Proficiency - Python & R, SQL & NoSQL Databases\nMachine Learning and AI - Algorithm Development, Deep Learning, Model Optimization\nBig Data Technologies - Hadoop Ecosystem, Apache Spark, Cloud Platforms\nData Visualization and Business Intelligence - Advanced Visualization Tools, Custom Visualizations, Data Engineering and Architecture\nAdvanced Statistical Analysis - Statistical Modeling, Experimental Design\nEmerging Technologies and Techniques - Natural Language Processing (NLP)\nApplication of Machine Learning in Cybersecurity - Development of Security Algorithms, Threat Intelligence and Analysis, AI-Driven Security Solutions\nYears of Experience:\nA minimum of 8-10 years of hands-on experience in data science or a related field.\nProven track record of leading significant data-driven projects and teams.\nDesired Skills\nPublications in reputed journals or presentations at significant conferences in the field of data science are a plus.\nAdvanced Academic Qualifications: A Master\u2019s degree or Ph.D. in Data Science, Computer Science, Statistics",
+          "source": "data_science_job.csv",
+          "row_index": 18
+        },
+        {
+          "jd_id": "da_003",
+          "title": "Data Scientist - User Engagement",
+          "text": "Location\nUnited States, Europe, United Kingdom, Ireland, Canada\nType\nFull time\nDepartment\nData\nData Science\nCompensation\n$117K \u2013 $176K\nThis is the target annual salary range for this role. This range is not inclusive of other additional compensation elements, such as our Bonus program, Equity program, Wellness allowance, and other benefits [US Only] (including medical, dental, vision and 401(k)).\nThe compensation range provided is influenced by various factors and represents the initial target range. Our salary offerings are dynamic and we strive to ensure that our base salary and total compensation package aligns and recognizes the top talent we aim to attract and retain. The compensation package of the successful candidate is based on various factors such as their skillset, experience, and job scope.\n\nBuilding the Future of Crypto\nOur Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.\nWhat makes us different?\nKraken is a mission-focused company rooted in crypto values. As a Krakenite, you\u2019ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken\u2019s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.\nBefore you apply, please read the Kraken Culture page to learn more about our internal culture, values, and mission.\nAs a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to industry-leading security, crypto education, and world-class client support through our products like Kraken Pro, Kraken NFT, and Kraken Futures.\nBecome a Krakenite and build the future of crypto!\nProof of work\nThe team\nEmbark on a transformative journey w",
+          "source": "data_science_job.csv",
+          "row_index": 25
+        }
+      ]
+    }
+  }
+}
